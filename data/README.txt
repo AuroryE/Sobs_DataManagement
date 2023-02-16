@@ -12,7 +12,7 @@ Sobs_Point_2022_Raw.csv
 Sobs_Observations_2022_Raw.csv
 Sobs_Survey_2022_Editable.csv
 Sobs_Point_2022_Editable.csv
-Sobs_Observations_2022.csv
+Sobs_Observations_2022_Editable.csv
 
 Outputs (2023-02-10):
 
