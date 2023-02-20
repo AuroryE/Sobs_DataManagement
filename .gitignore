@@ -1,7 +1,6 @@
 *.docx
 *.xlsx
 *.kml
-data/
-raw_data/
+
 
 
